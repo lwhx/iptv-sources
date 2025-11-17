@@ -1,4 +1,4 @@
-# List for **YueChan-Live IPTV**(Rollback)
+# List for **YueChan-Live IPTV**
 
 > M3U: [ycl_iptv.m3u](/ycl_iptv.m3u), TXT: [ycl_iptv.txt](/txt/ycl_iptv.txt)
 
@@ -79,7 +79,7 @@
 | 73 | 精选高清 | IPv4 直链 | <rtp://239.3.1.74:4120> |
 | 74 | 武侠剧场 | IPv4 直链 | <rtp://239.3.1.90:4120> |
 | 75 | 喜剧影院 | IPv4 直链 | <rtp://239.3.1.91:4120> |
-| 76 | 动作影院 | IPv4 直链 | <rtp://239.3.1.92:4120> |
+| 76 | ,动作影院 | IPv4 直链 | <rtp://239.3.1.92:4120> |
 | 77 | 家庭影院 | IPv4 直链 | <rtp://239.3.1.93:4120> |
 | 78 | 星影高清 | IPv4 直链 | <rtp://239.3.1.94:4120> |
 | 79 | 光影高清 | IPv4 直链 | <rtp://239.3.1.84:4120> |
@@ -89,4 +89,4 @@
 | 83 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
 | 84 | 动画高清 | IPv4 直链 | <rtp://239.3.1.80:4120> |
 
-Updated at **Mon Nov 17 2025 12:21:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 17 2025 14:10:56 GMT+0000 (Coordinated Universal Time)**
